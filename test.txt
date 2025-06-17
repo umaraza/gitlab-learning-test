@@ -1,0 +1,3 @@
+This is my first Git test file.
+Adding a second line.
+This is a line in feature-1 branch.
